@@ -1,0 +1,9 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\bin\Debug\homeWork2.1.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\bin\Debug\homeWork2.1.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\bin\Debug\homeWork2.1.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2.1.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2._1.Form1.resources
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2._1.Properties.Resources.resources
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2.1.csproj.GenerateResource.Cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2.1.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork2.1\homeWork2.1\obj\Debug\homeWork2.1.pdb
