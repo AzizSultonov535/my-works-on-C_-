@@ -1,0 +1,9 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

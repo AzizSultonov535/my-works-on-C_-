@@ -1,0 +1,6 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\bin\Debug\homeWork3.2.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\bin\Debug\homeWork3.2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\bin\Debug\homeWork3.2.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\obj\Debug\homeWork3.2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\obj\Debug\homeWork3.2.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWork3.2\homeWork3.2\obj\Debug\homeWork3.2.csprojResolveAssemblyReference.cache
