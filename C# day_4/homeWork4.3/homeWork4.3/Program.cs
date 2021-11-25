@@ -40,7 +40,7 @@ namespace homeWork4._3
                 }
                 else
                 {
-                    Console.WriteLine("Праавильно a<b<c");
+                    Console.WriteLine("Правильно a<b<c");
                 }
             }
         }
