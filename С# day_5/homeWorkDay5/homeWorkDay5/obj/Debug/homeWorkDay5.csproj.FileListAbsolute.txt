@@ -1,0 +1,6 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\bin\Debug\homeWorkDay5.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\obj\Debug\homeWorkDay5.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\obj\Debug\homeWorkDay5.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\bin\Debug\homeWorkDay5.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\bin\Debug\homeWorkDay5.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay5\homeWorkDay5\obj\Debug\homeWorkDay5.csprojResolveAssemblyReference.cache
