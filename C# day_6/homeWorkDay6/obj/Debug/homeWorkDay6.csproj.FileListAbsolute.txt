@@ -1,0 +1,9 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\bin\Debug\homeWorkDay6.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\bin\Debug\homeWorkDay6.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\bin\Debug\homeWorkDay6.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.Form1.resources
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.Properties.Resources.resources
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.csproj.GenerateResource.Cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6\homeWorkDay6\obj\Debug\homeWorkDay6.pdb
