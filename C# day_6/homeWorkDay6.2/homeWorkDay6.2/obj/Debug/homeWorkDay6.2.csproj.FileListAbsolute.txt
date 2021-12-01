@@ -1,0 +1,6 @@
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\bin\Debug\homeWorkDay6.2.exe.config
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\obj\Debug\homeWorkDay6.2.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\bin\Debug\homeWorkDay6.2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\bin\Debug\homeWorkDay6.2.pdb
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\obj\Debug\homeWorkDay6.2.exe
+C:\Users\Aziz\Documents\Visual Studio 2013\Projects\Silk Road Pro\homeWorkDay6.2\homeWorkDay6.2\obj\Debug\homeWorkDay6.2.pdb

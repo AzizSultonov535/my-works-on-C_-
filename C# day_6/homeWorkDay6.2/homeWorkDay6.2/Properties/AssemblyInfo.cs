@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("homeWorkDay6")]
+[assembly: AssemblyTitle("homeWorkDay6.2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("homeWorkDay6")]
+[assembly: AssemblyProduct("homeWorkDay6.2")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("22dbd27e-480d-4ea5-bfea-b57e8f3f31f3")]
+[assembly: Guid("cffca567-d3e4-430d-b925-8a69b85f94c2")]
 
 // Version information for an assembly consists of the following four values:
 //
